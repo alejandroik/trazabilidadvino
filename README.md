@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/logovino.png" alt="Logo" width="80" height="80">
+    <img src="images/logoVino.png" alt="Logo" width="80" height="80">
   <h3 align="center">Sistema de Trazabilidad del Vino basado en Blockchain</h3>
 
   <p align="center">
