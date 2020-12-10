@@ -27,7 +27,7 @@ Es necesario instalar los siguientes componentes para configurar el entorno.
 ```sh
 git clone https://github.com/alejandroik/trazabilidadvino.git
 ```
-2. Copiar la carpeta trazabilidadvino al directorio webapps de tomcat
+2. Copiar el archivo TrazaVinoWeb.war al directorio webapps de tomcat
 
 
 ## Recursos
