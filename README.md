@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="images/logovino.png" alt="Logo" width="80" height="80">
   <h3 align="center">Sistema de Trazabilidad del Vino basado en Blockchain</h3>
 
   <p align="center">
@@ -27,3 +28,7 @@ Es necesario instalar los siguientes componentes para configurar el entorno.
 git clone https://github.com/alejandroik/trazabilidadvino.git
 ```
 2. Copiar la carpeta trazabilidadvino al directorio webapps de tomcat
+
+
+## Recursos
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
